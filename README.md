@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @pythonCodin
-- 👀 I’m interested in the turtle module in python
-- 🌱 I’m currently learning how to make games with collisions
+- i code python
+- i wish you best luck in coding, bye!
