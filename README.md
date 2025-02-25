@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="banner_github.jpg" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Jonas, a Lithuanian Python Developer 👋🏼:
 🛜 Currently working on learning frontend developing 🎖️
